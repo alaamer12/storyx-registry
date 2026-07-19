@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T21:22:44.621Z",
+  "updatedAt": "2026-07-19T21:26:51.732Z",
   "extensions": {
     "test-ext": {
       "name": "Test Extension",
@@ -27,6 +27,24 @@
           "path": "extensions/test-folder/1.0.0/test-folder.ts",
           "size": 166,
           "publishedAt": "2026-07-19T21:22:44.620Z"
+        }
+      }
+    },
+    "actions": {
+      "name": "Actions",
+      "description": "Logs component events and actions to a dedicated panel.",
+      "author": "alaamer",
+      "tags": [
+        "utility",
+        "debug"
+      ],
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "sha256": "8a3c3a9d66feb7b8df4eda9ad9797eb337c0cdf8cba7105a46e08a309016a524",
+          "path": "extensions/actions/1.0.0/actions.ts",
+          "size": 9910,
+          "publishedAt": "2026-07-19T21:26:51.732Z"
         }
       }
     }
