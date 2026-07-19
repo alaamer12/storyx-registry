@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T21:10:54.964Z",
+  "updatedAt": "2026-07-19T21:22:44.621Z",
   "extensions": {
     "test-ext": {
       "name": "Test Extension",
@@ -13,6 +13,20 @@
           "size": 85,
           "publishedAt": "2026-07-19T20:46:33.622Z",
           "updatedAt": "2026-07-19T21:10:54.963Z"
+        }
+      }
+    },
+    "test-folder": {
+      "name": "Test Folder",
+      "description": "Test folder bundling",
+      "author": "alaamer",
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "sha256": "c136f44aa15ba7a41f374d0380733f6f47171327804536b176ec871e72deb1be",
+          "path": "extensions/test-folder/1.0.0/test-folder.ts",
+          "size": 166,
+          "publishedAt": "2026-07-19T21:22:44.620Z"
         }
       }
     }
