@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T21:26:51.732Z",
+  "updatedAt": "2026-07-19T21:26:54.143Z",
   "extensions": {
     "test-ext": {
       "name": "Test Extension",
@@ -45,6 +45,24 @@
           "path": "extensions/actions/1.0.0/actions.ts",
           "size": 9910,
           "publishedAt": "2026-07-19T21:26:51.732Z"
+        }
+      }
+    },
+    "code-viewer": {
+      "name": "Code Viewer",
+      "description": "Displays the source code of the selected component/state.",
+      "author": "alaamer",
+      "tags": [
+        "utility",
+        "debug"
+      ],
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "sha256": "85ea056329c94a3adc4c2973f4ad1772bc08f147a3d2eeb9100317adfa5b4a28",
+          "path": "extensions/code-viewer/1.0.0/code-viewer.ts",
+          "size": 10577,
+          "publishedAt": "2026-07-19T21:26:54.143Z"
         }
       }
     }
