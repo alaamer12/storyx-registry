@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-19T21:26:54.143Z",
+  "updatedAt": "2026-07-19T21:26:56.282Z",
   "extensions": {
     "test-ext": {
       "name": "Test Extension",
@@ -63,6 +63,24 @@
           "path": "extensions/code-viewer/1.0.0/code-viewer.ts",
           "size": 10577,
           "publishedAt": "2026-07-19T21:26:54.143Z"
+        }
+      }
+    },
+    "viewport": {
+      "name": "Viewport",
+      "description": "Resizable viewport with common device presets.",
+      "author": "alaamer",
+      "tags": [
+        "ui",
+        "utility"
+      ],
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "sha256": "253838922bbb98b8eb4d7cf2e669a834ac320e2b933494dff7cca8bfdfc333ab",
+          "path": "extensions/viewport/1.0.0/viewport.ts",
+          "size": 6501,
+          "publishedAt": "2026-07-19T21:26:56.281Z"
         }
       }
     }
