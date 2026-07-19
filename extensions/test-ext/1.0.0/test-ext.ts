@@ -1,3 +1,1 @@
-export default function defineExtension(registry: any) {
-  console.log("Test Extension Loaded");
-}
+export default function defineExtension(registry) { console.log("Test Extension"); }
